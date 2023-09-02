@@ -5,7 +5,7 @@
 ## About
 
 [![License](https://img.shields.io/github/license/rmuraix/disaster-tweets-classifier)](./LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/rmuraix/blob/main/disaster_tweets_classifier.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/rmuraix/disaster-tweets-classifier/blob/main/disaster_tweets_classifier.ipynb)
 
 Predict which Tweets are about real disasters and which ones are not with BERT, Transformers and Pytorch  
 https://www.kaggle.com/competitions/nlp-getting-started/overview
