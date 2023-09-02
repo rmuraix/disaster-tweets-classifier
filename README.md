@@ -1,7 +1,6 @@
 # Disaster tweets classifier
 
-![word_cloud_non_disaster](./static/word_cloud_non_disaster.png)
-![word_cloud_disaster](./static/word_cloud_disaster.png)
+<img alt="word_cloud_non_disaster" src="././static/word_cloud_non_disaster.png" width="50%"></img><img alt="word_cloud_disaster" src="././static/word_cloud_disaster.png" width="50%"></img>
 
 ## About
 
